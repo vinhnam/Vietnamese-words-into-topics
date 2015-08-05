@@ -5,7 +5,7 @@ A small project I've started while learning Big Data. It has no real purpose oth
 1. using wikiextractor (python) to remove wiki code. result at:
 https://drive.google.com/file/d/0B321EOsFcy2YNnJHMDNLaVVaMm8/view?usp=sharing
 2. Convert XML escape characters to UTF-8 using php:
-https://drive.google.com/a/fpt.edu.vn/file/d/0B321EOsFcy2YVzVUQ21yZk9RTzg/view?usp=sharing
+https://drive.google.com/file/d/0B321EOsFcy2YMHVfUGJSTUpRNG8/view?usp=sharing
 
  .....to be continued ... 
 # Some friends of us can be named.
