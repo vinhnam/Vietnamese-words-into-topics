@@ -20,10 +20,12 @@ https://drive.google.com/open?id=0B321EOsFcy2YRl9FLXpxeWpzOE0
 alright, i got a wiki text file here :
 
 https://drive.google.com/open?id=0B321EOsFcy2YRl9FLXpxeWpzOE0
+
 Also a small file for those who wanna try mahout in your small local machine:
 https://drive.google.com/open?id=0B321EOsFcy2YRl9FLXpxeWpzOE0
 
 Happy riding (an elephant) ;)
+
  .....to be continued ... 
 # Some friends of us can be named.
 https://www.mediawiki.org/wiki/Alternative_parsers
