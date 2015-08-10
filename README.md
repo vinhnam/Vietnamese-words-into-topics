@@ -17,7 +17,8 @@ Feel free to create a xml tokenized file yourself, just be aware that it gonna t
 
 5. using word2vector to generate the vector. Binary file already here, we still need a text file
 https://drive.google.com/open?id=0B321EOsFcy2YRl9FLXpxeWpzOE0
-alright, i got a wiki text file here :
+
+Alright, i got a wiki text file here :
 
 https://drive.google.com/open?id=0B321EOsFcy2YRl9FLXpxeWpzOE0
 
